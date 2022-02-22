@@ -197,15 +197,30 @@ button:disabled {
 
 @media only screen and (max-width: 480px) {
     .content {
-        width: 90vw;
+        width: 80vw;
+        height: 70vw;
+        grid-template-columns: 2fr;
+        grid-template-rows: 0.15fr 0.15fr 0.15fr 0.15fr;
+        grid-template-areas: 
+        "a"
+        "c"
+        "d"
+        "b";
+        padding: 5%;
+    }
+
+    .two, .three, .four, .five {
+        background-size: cover;
     }
 
     h1 {
-        font-size: 3.5vw;
+        font-size: 5vw;
     }
     
     p {
-        font-size: 3vw;
+        font-size: 4vw;
+        padding-right: 5%;
+        padding-left: 5%;
     }
 
     button {
