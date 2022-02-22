@@ -198,7 +198,7 @@ button:disabled {
 @media only screen and (max-width: 480px) {
     .content {
         width: 80vw;
-        height: 70vw;
+        height: 80vw;
         grid-template-columns: 2fr;
         grid-template-rows: 0.15fr 0.15fr 0.15fr 0.15fr;
         grid-template-areas: 
