@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.1040e8f7.css",
+    "main.js": "/Portfolio/static/js/main.bff424c6.js",
+    "static/media/pricetag.svg": "/Portfolio/static/media/pricetag.bf34c38a07006aaaff743a9815976cc8.svg",
+    "static/media/app.svg": "/Portfolio/static/media/app.30f41065c79ed43573e36cf4548e4a2d.svg",
+    "static/media/tea.svg": "/Portfolio/static/media/tea.b5dcbf9294c81f6913d57f1322e85507.svg",
+    "static/media/shop.svg": "/Portfolio/static/media/shop.8ac93cf282a62c98a30bb5d14e0d8f8a.svg",
+    "static/media/lightbulb.svg": "/Portfolio/static/media/lightbulb.93d859e6e9bb8da4f5028c9636b3fe9d.svg",
+    "static/media/wrench.svg": "/Portfolio/static/media/wrench.1a358269b7deda2d8405d02e6ce1fc1d.svg",
+    "static/media/linkedin.svg": "/Portfolio/static/media/linkedin.343b2fe30dc28f2557498a8194871bda.svg",
+    "static/media/web.svg": "/Portfolio/static/media/web.56897da60a7980a0302eeb8d17b0a5eb.svg",
+    "static/media/bottomwaves.svg": "/Portfolio/static/media/bottomwaves.aab60b819a3b5f624dd87f461c72cc69.svg",
+    "static/media/computer.svg": "/Portfolio/static/media/computer.8ddb0d8fc99f82ded73b41a564a3fa59.svg",
+    "static/media/email.svg": "/Portfolio/static/media/email.d12a989c94fa9d5a5f4dadae1c22e574.svg",
+    "static/media/background.svg": "/Portfolio/static/media/background.509ac477e77dd59c8ba8.svg",
+    "static/media/info.svg": "/Portfolio/static/media/info.8ac23e32cceeac4bbced09aa22b6c352.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/program.svg": "/Portfolio/static/media/program.3dc4cee0d0c0e96b46f06a71cf611158.svg",
+    "static/media/export.svg": "/Portfolio/static/media/export.3b5ee4124aa3b9c5a59d699b4aac9c2e.svg",
+    "static/media/close.svg": "/Portfolio/static/media/close.798fcd283bb5b429cc0a57ec2a5c39c7.svg",
+    "main.1040e8f7.css.map": "/Portfolio/static/css/main.1040e8f7.css.map",
+    "main.bff424c6.js.map": "/Portfolio/static/js/main.bff424c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1040e8f7.css",
+    "static/js/main.bff424c6.js"
+  ]
+}
